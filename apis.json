@@ -1,0 +1,73 @@
+{
+    "name": "TradeIt",
+    "description": "The API infrastructure that links retail investors and app developers with any online financial broker.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28295-www-trade-it.jpg",
+    "tags": [
+        "financial",
+        "financial services",
+        "have api",
+        "investors",
+        "market data",
+        "stocks",
+        "trading"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tradeit\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TradeIt",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28295-www-trade-it.jpg",
+            "humanURL": "https:\/\/blog.trade.it\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tradeit-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/blog.trade.it\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/trading-ticket-llc"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/www.trade.it\/documentation"
+        },
+        {
+            "type": "Email",
+            "url": "support@trade.it"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/www.trade.it\/quickstart#get-started#tradeit-products"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/tradeit"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/support.trade.it\/hc\/en-us"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TradeIt"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.trade.it"
+        }
+    ]
+}
